@@ -2,6 +2,8 @@
 
 This repository contains an offline-readable Arabic reading curriculum with matching student and teacher HTML editions. Start at [index.html](index.html), which introduces the use case and links each age to its published period editions.
 
+**Read online:** [Open the Arabic / English curriculum website](https://3mrbinmahmood-cell.github.io/ages_5to18_extra_circular_readings_Quranic_vocab/). For offline reading, keep the downloaded folder structure intact and open `index.html` in a browser.
+
 ## Scope
 
 The source inventory contains **5,311 separately recorded vocabulary meanings across 4,866 distinct source entries**: **1,585 verbs (فعل), 3,622 nouns (اسم / ism), 90 particles (حرف / harf), and 14 disjoint letters (حروف مقطعة)**. A meaning is a separately recorded sense, so the number of meanings exceeds the number of entries. The source workbook was used to build the inventory and is not redistributed here.
