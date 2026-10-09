@@ -20,6 +20,18 @@ The index pairs ages 7–18 with Grades 1–12, so **age 18 is shown with Grade 
 4. The coverage ledger links each meaning to its planned student-edition location. The links were checked against the corresponding HTML anchors.
 5. Age 11 was rebalanced across complete lesson units: 296 first-term meanings, 80 winter-reading meanings, 304 second-term meanings, and 70 summer-reading meanings (750 total).
 6. The home page, map, and progress chart provide navigation and summary views. The pages use local HTML and a local stylesheet for offline reading.
+7. Winter and summer review books were added for **ages 9, 12 and 14 (Grades 3, 6 and 8)**. Each season has six substantial readings and matching student/teacher editions: six books, twelve editions and 36 different readings altogether. Winter draws on first-term meanings; summer selects meanings from both terms. These are selective review books, not a second claim of new vocabulary coverage.
+8. The [seasonal review ledger](SEASONAL_REVIEW_LEDGER.html) records the stable source meaning IDs selected in those readings, with links to both the original student presentation and the new review lesson. Delayed review and next-year retrieval prompts are supplied, while completion remains a learner observation rather than a writing claim.
+
+## Winter and summer review books
+
+| Age / grade | Winter student | Winter teacher | Summer student | Summer teacher |
+| --- | --- | --- | --- | --- |
+| 9 / Grade 3 | [Student](09/winter-reading/student.html) | [Teacher](09/winter-reading/teacher.html) | [Student](09/summer-reading/student.html) | [Teacher](09/summer-reading/teacher.html) |
+| 12 / Grade 6 | [Student](12/winter-reading/student.html) | [Teacher](12/winter-reading/teacher.html) | [Student](12/summer-reading/student.html) | [Teacher](12/summer-reading/teacher.html) |
+| 14 / Grade 8 | [Student](14/winter-reading/student.html) | [Teacher](14/winter-reading/teacher.html) | [Student](14/summer-reading/student.html) | [Teacher](14/summer-reading/teacher.html) |
+
+The readings provide connected Arabic texts, conversations, comprehension and retrieval exercises, contextual verb work, practical tasks, spaced review, suggested answers and adjustments for learners who need support or additional challenge. Student and teacher reading text is checked for agreement. Local file links and lesson anchors are checked before publication. Arabic and Qur’anic specialist review remains pending.
 
 ## Editorial status and limits
 
